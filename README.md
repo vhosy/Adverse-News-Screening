@@ -9,10 +9,10 @@ Below are the steps taken to achieve this:
 
 Ideally, with only adverse financial news, all tagged with their topic, relevance score and a short summary, all stored in a single dashboard for users’ quick and easy perusal:
 
-•  No need to manually scan news website for the relevant articles
-•  Short summary of article allows for faster reading, URL links still available to read full article
-•  Relevance score helps users quickly identify which are the more important articles to focus on
-•  Update watchlist of people or organizations mentioned
-•  Learn from others’ mistakes and review policies and workflows to reduce risks of similar situation occurring
+-  No need to manually scan news website for the relevant articles
+-  Short summary of article allows for faster reading, URL links still available to read full article
+-  Relevance score helps users quickly identify which are the more important articles to focus on
+-  Update watchlist of people or organizations mentioned
+-  Learn from others’ mistakes and review policies and workflows to reduce risks of similar situation occurring
 
 Please refer to the 'Adverse News Screening for Financial Crime Surveillance.docx' for more details.
